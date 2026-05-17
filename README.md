@@ -2,7 +2,7 @@
 
 
 
-This repository houses the notebooks to analyze the differences between projected load and the headroom as calculated by the (hosting capacity calculations)[https://github.com/ElectriGrid/hosting-capacity-calculation]. This analysis is completed at the census tract level. 
+This repository houses the notebooks to analyze the differences between projected load and the headroom as calculated by the [hosting capacity calculations](https://github.com/ElectriGrid/hosting-capacity-calculation). This analysis is completed at the census tract level. 
 
 ## Repository Structure
 
